@@ -1,0 +1,20 @@
+# User config — never commit personal settings
+config.sh
+
+# Runtime state files
+STATE.md
+
+# Databases
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
