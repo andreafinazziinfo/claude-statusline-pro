@@ -5,7 +5,7 @@
 #               savings at a glance inside the Claude Code status bar.
 # Author      : Andrea Finazzi
 # License     : MIT
-# Repository  : https://github.com/andreafinazzi/claude-statusline-pro
+# Repository  : https://github.com/andreafinazziinfo/claude-statusline-pro
 # ==============================================================================
 
 VERSION="1.0.0"

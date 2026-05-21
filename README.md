@@ -59,7 +59,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/andreafinazzi/claude-statusl
 
 **Or clone:**
 ```bash
-git clone https://github.com/andreafinazzi/claude-statusline-pro.git
+git clone https://github.com/andreafinazziinfo/claude-statusline-pro.git
 cd claude-statusline-pro
 bash install.sh
 ```
