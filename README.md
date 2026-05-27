@@ -4,6 +4,8 @@
 [![Shell](https://img.shields.io/badge/shell-bash%204%2B-4EAA25?logo=gnu-bash&logoColor=white)](statusline.sh)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20WSL-blue)](docs/features.md)
 
+> Terminal HUD status bar for [Claude Code](https://claude.ai/code) — tokens, cost, git state, tool freshness, and session handoff in three lines.
+
 A 3-line HUD status bar for [Claude Code](https://claude.ai/code) that surfaces AI metrics, git state, token savings, and tool freshness at a glance — without leaving your terminal.
 
 ## Screenshots
@@ -54,7 +56,7 @@ A 3-line HUD status bar for [Claude Code](https://claude.ai/code) that surfaces 
 
 **One-liner:**
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/andreafinazzi/claude-statusline-pro/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/andreafinazziinfo/claude-statusline-pro/main/install.sh)
 ```
 
 **Or clone:**
