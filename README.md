@@ -8,15 +8,17 @@
 
 A 3-line HUD status bar for [Claude Code](https://claude.ai/code) that surfaces AI metrics, git state, token savings, and tool freshness at a glance — without leaving your terminal.
 
-## Screenshots
+## Live preview
 
-> _Screenshot coming soon. Run the installer and see it live._
+The status bar renders as three monospace lines at the bottom of Claude Code — no GUI window:
 
 ```
 ╭─ 👾 claude-sonnet-4-6 │ 🧠 42% ⚡ 78% │ ↓ 12.4k ↑ 2.1k │ 💵 $0.23 @$0.18/h ⌚ 1h12m │ ⏱️ 5% 🔄 14:30 ⏳ 12% 🔄 22/05 09:00
 ├─ 📁 my-project │ 🔒 main ±3/1 ⇡2⇣0 #a1b2c3 │ 🕒 45m
 ╰─ 🛠  🔌 gitnexus[✅ 14:22] │ 🕸  graphify[⚠ 21/05 23:36] │ 🏗  2/42 │ 📋✅ │ 💾 72% (-1.2k)
 ```
+
+Install with the one-liner below and restart Claude Code to see your live session metrics.
 
 ## Features
 
